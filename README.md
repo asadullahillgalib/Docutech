@@ -13,6 +13,7 @@ This Project is all about data extraction from PDF attachments and storing data 
 # Download attachment from google drive shared link which link has been received in mail inbox.
 # Download attachment from one drive shared link which link has been received in mail inbox.
 # Logo & Barcode detection from a pdf and store files into separate folder according to it's company logo.
+# Download files(pdf) from ftp server
 [NOTE:Attachment download from mail will be working for gmail,yahoomail,outlook,sogo etc]
 
 # Developed By: Md. Asadullahill Galib
